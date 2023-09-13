@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+About Me:
+🔭 I'm looking for an opportunity in the Data Science world.
+🌱 I'm currently learning Deep learning, LLM, and Big Data.
+💬 Actively writing on medium about Data analytics and Data science.
+
 <!--
 **Risdan224/Risdan224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
