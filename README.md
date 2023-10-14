@@ -2,7 +2,7 @@
 
 ## 😄 About Me:<br>
 🔭 I'm looking for an opportunity in the Data Science world.<br>
-🌱 Quite skilled in machine learning models. <br>
+🌱 Skilled in machine learning models. <br>
 💬 Actively writing on medium about Data analytics and Data science.
 
 ## 🌐 Socials:
