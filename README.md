@@ -9,8 +9,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risdan-kristori-02023211b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@ksvmuralidhar](https://medium.com/@risdan.kristori)) 
 
-You can check my portfolios here: https://risdan224.github.io/ <br>
-Or just check my repositories 😄
+### You can check my portfolios here: https://risdan224.github.io/ <br>
+### Or just check my repositories 😄
 <!--
 **Risdan224/Risdan224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
