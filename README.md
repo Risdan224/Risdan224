@@ -5,6 +5,9 @@
 - Skilled in machine learning models. <br>
 - Actively writing on medium about Data analytics and Data science.
 
+# Mentorship:
+https://www.udemy.com/user/risdan-kristori/ 
+
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risdan-kristori-02023211b/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@risdan.kristori)
