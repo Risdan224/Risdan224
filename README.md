@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Risdan 😄
 
 # About Me:<br>
-- I'm a data enthusiast looking for an opportunity in the data science role.<br>
+- I teach python for a variety of uses.<br>
 - Skilled in machine learning models. <br>
 - Actively writing on medium about Data analytics and Data science.
 
